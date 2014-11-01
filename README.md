@@ -1,4 +1,4 @@
 linux-pcmanfm-actions
 =====================
 
-Sample PcManFm custom actions, for Lubuntu 14.04
+http://madebits.github.io/#r/linux-pcmanfm-actions.md
